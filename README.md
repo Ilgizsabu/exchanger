@@ -1,2 +1,2 @@
-# exchanger
+# Exchanger
 The project is a service for users who want to get rid of "unlucky" ruble bills by exchanging them many times for another currency (for example, Turkish lira) and back. The goal is to increase the chance of getting new bills. The service lets users set the exchange rates, the amount of rubles, and the number of exchange rounds. It then shows the final amount of rubles after all exchanges and the profit of the exchange office.
